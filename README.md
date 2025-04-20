@@ -1,6 +1,6 @@
 # Examensarbete
 
-Projektet bestor av två api:er med CRUD-funktionalitet, samt ett consol-projekt för seedning av databas.
+Projektet består av två api:er med CRUD-funktionalitet, samt ett consol-projekt för seedning av databas.
 
 Syftet var att bygga två likadana api:er med olika ramverk och sedan genomföra Load Tester och jämföra prestandan sinsemellan.
 
