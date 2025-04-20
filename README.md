@@ -16,8 +16,8 @@ Ett API har byggts med ASP.NET Core (.NET 9) och det andra med NestJS (Node.js 2
   - Varje API testades två gånger för att öka tillförlitligheten.
 
 **Datamodell**
-Databasen består av två tabeller:
 
+Databasen består av två tabeller:
 - HockeyPlayers – innehåller information om spelare. Tabellen har en foreign key till tabellen Nations, vilket innebär att varje spelare är kopplad till ett land.
 - Nations – innehåller information om länder.
 
